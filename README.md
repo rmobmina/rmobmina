@@ -12,11 +12,11 @@
 
 ---
 
-## 🎓 About Me
+## 👤 About Me
 
 I'm Reena, a Computer Science and Bioinformatics student at the **University of Toronto** focused on building computational tools that make complex biological questions tangible. My work spans molecular data pipelines, interactive visualization, and interdisciplinary research that bridges lab science with software engineering.
 
-### 🧪 What I've Worked On
+### 💻 What I've Worked On
 - Analyzed prairie biodiversity and extinction dynamics using R and Python across 200+ field transects, surfacing stability and dominance signals for restoration planning.
 - Modernized the Bio-Analytic Resource (BAR) with Flask + SQLAlchemy services that expose 5+ TB of curated gene expression data to dozens of research groups.
 - Delivered interactive R Shiny and Python dashboards that turn ecological and genomic datasets into accessible decision-support tools.
@@ -80,7 +80,7 @@ I'm energized by roles that blend biology, computation, and design—bioinformat
 
 ---
 
-## 🚀 Featured Projects
+## 📽️ Featured Projects
 
 ### [BAR: ePlant 3.0 Data Integration & Visualization Platform](https://github.com/rmobmina)
 **Bioinformatics Infrastructure Modernization** | *Python, Flask, SQLAlchemy, React*
@@ -127,7 +127,7 @@ I'm energized by roles that blend biology, computation, and design—bioinformat
 
 ---
 
-## 💼 Experience
+## 📋 Experience
 
 ### Student Researcher | Provart Lab, University of Toronto
 *Aug 2025 – Present · Toronto, Canada*
@@ -169,17 +169,6 @@ I'm energized by roles that blend biology, computation, and design—bioinformat
 
 ---
 
-## 🏆 Achievements
-
-- 🎓 **University of Toronto Scholar** — Entrance award for academic excellence and interdisciplinary impact (2023).
-- 🥇 **Governor General’s Academic Medal** — Highest academic standing in graduating class.
-- 🧪 **Schulich Leader Nominee** — Recognized for STEM leadership and innovation potential.
-- 🎷 **First Chair Saxophonist** — Alberta Honour Band representative, Alberta Band Association.
-- 🌀 **Rotary Student of the Month** — Honoured for community leadership and service.
-- 🗣️ **Student Council President & Valedictorian** — Led school-wide initiatives and represented the graduating class at St. Anthony's School.
-
----
-
 ## 🔬 Research Interests
 
 - 🧬 Computational genomics & stress-response visualization
@@ -202,20 +191,3 @@ Activities: Trinity College, Computer Science Student Union (Social Committee As
 **High School Diploma (2010 – 2023)**  
 - Valedictorian, Governor General’s Academic Medal recipient, Student Council President.
 - Activities: Concert Band (Saxophonist), Varsity Volleyball, Varsity Badminton.
-
----
-
-## 📜 Certifications
-
-- **Good Clinical Practice (GCP)** — NIDA (Oct 2025 – Oct 2028)
-- **TCPS 2: CORE 2022** — Canadian Institutes of Health Research
-- **WHMIS** — Canadian Centre for Occupational Health and Safety
-- **Standard First Aid CPR C + AED** — St. John Ambulance (May 2025 – May 2028)
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rmobmina&color=9D4EDD&style=for-the-badge)
-  
-</div>
