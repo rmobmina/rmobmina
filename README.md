@@ -130,20 +130,6 @@ Advanced data structures project using graph algorithms for personalized film re
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmobmina&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rmobmina&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=F72585&currStreakLabel=9D4EDD)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmobmina&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9)
-  
-</div>
-
----
-
 ## 💼 Experience
 
 ### Student Researcher | Provart Lab, UofT
@@ -247,7 +233,3 @@ Advanced data structures project using graph algorithms for personalized film re
   ![Profile Views](https://komarev.com/ghpvc/?username=rmobmina&color=9D4EDD&style=for-the-badge)
   
 </div>
-
----
-
-⭐️ From [rmobmina](https://github.com/rmobmina)
