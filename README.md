@@ -2,7 +2,7 @@
 
 # Hey there! I'm Reena
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Computer+Science+%2B+Bioinformatics+Student;Student+Researcher+%40+Provart+Lab;Full+Stack+Developer;Bridging+Biology+and+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Computer+Science+%2B+Bioinformatics+Student;Student+Researcher+%40+Provart+Lab;Full+Stack+Developer;Bridging+Biology+and+Technology)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reena-obmina-0325092a6)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rmobmina)
