@@ -14,13 +14,21 @@
 
 ## 🎓 About Me
 
-I'm a Computer Science and Bioinformatics student at the **University of Toronto**, currently working as a **Student Researcher at the Provart Lab** where I build bioinformatics tools for gene expression analysis. I'm passionate about using technology to understand and improve the living world, combining computational skills with biological research.
+I'm Reena, a Computer Science and Bioinformatics student at the **University of Toronto** focused on building computational tools that make complex biological questions tangible. My work spans molecular data pipelines, interactive visualization, and interdisciplinary research that bridges lab science with software engineering.
 
-- 🔬 **Student Researcher** at Provart Lab - Building Flask APIs for genomic data visualization
-- 🌱 Previously: **Student Researcher** at Gilbert Lab - Ecological modeling and R data analysis
-- 🏎️ **Full-Stack Web Developer** at UofT Baja Racing
-- 🎯 Focus areas: **Bioinformatics**, **full-stack development**, **data visualization**
-- 📫 Reach me: **rmobmina@gmail.com**
+### 🧪 What I've Worked On
+- Analyzed prairie biodiversity and extinction dynamics using R and Python across 200+ field transects, surfacing stability and dominance signals for restoration planning.
+- Modernized the Bio-Analytic Resource (BAR) with Flask + SQLAlchemy services that expose 5+ TB of curated gene expression data to dozens of research groups.
+- Delivered interactive R Shiny and Python dashboards that turn ecological and genomic datasets into accessible decision-support tools.
+- Built predictive software systems, from ML-driven epidemiology engines to adaptive NLP typing assistants that reduce keystrokes for accessibility-focused users.
+
+### ⚙️ What Drives Me
+- Curiosity about how algorithms, statistics, and biological systems intertwine.
+- A commitment to rigorous, reproducible research—clean code, tested pipelines, and transparent visuals.
+- Interdisciplinary collaboration, whether debugging a data pipeline, shaping UI/UX flows, or learning new wet-lab techniques like PCR, DNA extraction, and gel electrophoresis.
+
+### 🔭 Looking Ahead
+I'm energized by roles that blend biology, computation, and design—bioinformatics, health tech, ecological modeling, or any space where better tools unlock better scientific questions.
 
 ---
 
@@ -74,98 +82,81 @@ I'm a Computer Science and Bioinformatics student at the **University of Toronto
 
 ## 🚀 Featured Projects
 
-### [Turbo Type](https://github.com/rmobmina)
-**Cross-Platform Predictive Text System** | *Java (Spring Boot 3), Flask, React, Docker, AWS*
+### [BAR: ePlant 3.0 Data Integration & Visualization Platform](https://github.com/rmobmina)
+**Bioinformatics Infrastructure Modernization** | *Python, Flask, SQLAlchemy, React*
+- Built Flask APIs and dynamic ORM models powering 5+ TB of curated plant genomics datasets.
+- Streamlined preprocessing workflows and data validation for 30+ research groups within the Bio-Analytic Resource (BAR).
 
-A comprehensive digital accessibility system combining NLP and probabilistic modeling for enhanced typing experiences.
-- 🤖 NLP-powered word prediction reducing keystrokes by 55%
-- ⚡ Scalable Flask/Java microservices architecture
-- 🎨 Responsive React interface with real-time predictions
-- 🔧 Docker containerization with AWS deployment
+### [TurboType: AI-Powered Typing Intelligence](https://github.com/rmobmina)
+**Accessibility-First Communication Platform** | *Kotlin, Flask, Firebase, Jetpack Compose*
+- Co-engineered adaptive typing tools with real-time difficulty scaling, multiplayer modes, and personalization features.
+- Reduced keystrokes by 55% through probabilistic NLP prediction and Clean Architecture services.
 
-### [Epidemiological Forecaster](https://github.com/hackbio-ca/virus-population-spread-ml)
-**Machine Learning for Disease Surveillance** | *Python (pandas, NumPy, PyTorch), React*
+### [Partial Word Writer](https://github.com/rmobmina)
+**Assistive Predictive Text System** | *Python, Flask, Spring Boot, NLP*
+- Built cross-platform APIs and UI components that accelerate typing for users facing communication barriers.
+- Implemented probabilistic text prediction and accessibility-focused design patterns.
 
-End-to-end ML pipeline predicting viral transmission dynamics with interactive dashboards.
-- 📊 Processes 2M+ epidemiological records
-- 🎯 85% prediction accuracy for transmission forecasting
-- 📈 Interactive React dashboards for trend visualization
-- 🔬 Adopted by 4 disease-surveillance teams
+### [ML-Driven Epidemiology Engine](https://github.com/rmobmina)
+**Disease Spread Modeling** | *Python, pandas, NumPy, PyTorch*
+- Designed ML workflows that analyze epidemiological datasets and surface outbreak forecasts through interactive dashboards.
 
-### [The Weather App](https://github.com/rmobmina/CSC207-Project)
-**Interactive Weather Analysis Platform** | *Java, Maven, Clean Architecture, JFreeChart*
+### [Ecological Dynamics Engine](https://github.com/rmobmina/EEB398_Visualizer)
+**Prairie Stability & Species Extinction Modeling** | *R, Shiny, tidyverse*
+- Visualized long-term biodiversity data from 200+ prairie transects, enabling scenario exploration via interactive graphs and analytics.
 
-Feature-rich weather application with real-time updates and historical data analysis.
-- 🌤️ Real-time and historical weather API integration
-- 📊 Interactive line, bar, and Mercator map visualizations
-- 🏗️ Clean Architecture design principles
-- 🎨 Personalized forecasts with smooth UI workflows
+### [Red Rebirth: Life on Mars](https://github.com/rmobmina)
+**Real-Time Graphics Showcase** | *C++, OpenGL, Shader Programming*
+- Created a procedurally generated Martian landscape with dynamic lighting, textured models, and animated assets.
 
-### [Prairie Biodiversity Explorer](https://github.com/rmobmina/EEB398_Visualizer)
-**R Shiny Data Visualization Platform** | *R (tidyverse, ggplot2, Shiny)*
+### [Dr. Mario – MIPS Assembly Edition](https://github.com/rmobmina)
+**Low-Level Game Engine** | *MIPS Assembly*
+- Implemented capsule physics, collision detection, and gravity to recreate the classic gameplay loop at the instruction level.
 
-Reproducible platform visualizing prairie species dynamics and extinction risk.
-- 🌾 Visualizes 60+ prairie species abundance and stability
-- 📈 Interactive dashboards with species filters and plot selectors
-- 🔬 Eliminated manual plotting, boosting dataset usage by 3x
-- 📊 Downloadable graphs and faceted visuals
+### [Weather Insights Platform](https://github.com/rmobmina/CSC207-Project)
+**Clean Architecture Weather Analytics** | *Java, Maven, JFreeChart*
+- Integrated real-time and historical APIs to power interactive visualizations, Mercator maps, and personalized forecasts.
 
-### [Dr. Mario](https://github.com/rmobmina)
-**Classic Game in MIPS Assembly** | *MIPS Assembly, OpenGL*
+### [Graph-Based Movie Recommender](https://github.com/rmobmina)
+**Rotten Tomatoes Preference Modeling** | *Python, NetworkX, pandas*
+- Modeled film relationships with weighted graphs and trees to provide genre-aware recommendations.
 
-Fully functional Dr. Mario game built from scratch in low-level assembly language.
-- 🎮 Complete gameplay mechanics with collision detection
-- 🔊 Sound effects and background music integration
-- 📦 Dynamic row-clearing logic and gravity system
-- 🎯 Increasing difficulty levels and game over screen
-
-### [Rotten Tomatoes Film Analyzer](https://github.com/rmobmina)
-**AI-Powered Film Recommendation System** | *Python, NetworkX, Pandas*
-
-Advanced data structures project using graph algorithms for personalized film recommendations.
-- 🎬 Graph-based movie relationship modeling
-- 🌳 Weighted trees for hierarchical data representation
-- 📊 Review score analysis across 1000+ films
-- 🎯 Smart recommendations based on genre and user preferences
+### [Campus Quest: UofT Puzzle Adventure](https://github.com/rmobmina)
+**Narrative-Driven Python Game** | *Python, OOP*
+- Designed puzzles, progression mechanics, and UI flows that capture the bustle of UofT life.
 
 ---
 
 ## 💼 Experience
 
-### Student Researcher | Provart Lab, UofT
-*Sep 2025 - Present*
-- Building Flask-based bioinformatics services for Bio-Analytic Resource (BAR)
-- Developing APIs exposing 5+ TB of curated genomic datasets to 30+ research groups
-- Modeling gene-expression responses across 6,000 genes and 12 stress conditions
-- Reducing manual preprocessing time by 40% through automated pipelines
+### Student Researcher | Provart Lab, University of Toronto
+*Aug 2025 – Present · Toronto, Canada*
+- Explore plant gene expression and environmental stress response data sets under Dr. Nicholas Provart.
+- Develop Flask-based APIs, SQLAlchemy models, and visualization services within the Bio-Analytic Resource (BAR).
+- Implement pipelines that keep large-scale gene expression datasets reproducible, discoverable, and lab-ready.
 
-### Student Researcher | Gilbert Lab, UofT
-*May 2025 - Aug 2025*
-- Integrated 200+ field transects with R and Python workflows
-- Applied R-based statistical modeling for biodiversity and extinction risk analysis
-- Built interactive R Shiny dashboards for complex time-varying datasets
-- Generated 15 scenario briefs adopted in ecological prediction models
+### Student Researcher | Department of Cell & Systems Biology, University of Toronto
+*Apr 2025 – Aug 2025 · Toronto, Canada*
+- Collected biodiversity data across fragmented prairie habitats to study extinction dynamics under Dr. Benjamin Gilbert.
+- Applied R (tidyverse/ggplot2) to analyze species dominance and demographic stochasticity.
+- Communicated findings through research posters and scenario briefs highlighting restoration implications.
 
-### Full-Stack Web Developer | UofT Baja Racing
-*Sep 2025 - Present*
-- Designing and maintaining team's web platform with modern UI/UX patterns
-- Implementing new pages, components, and content management workflows
-- Improving visibility of projects, sponsorships, and technical updates
-- Building responsive interfaces for team showcases
+### Social Events Associate | Computer Science Student Union
+*Jul 2024 – Present · Toronto, Canada*
+- Plan and coordinate large-scale social and networking events for 100+ CS students.
+- Manage logistics, budgeting, and communications, ensuring accessible and inclusive programming.
+- Support promotional campaigns that consistently boost student participation.
 
-### Social Committee Associate | Computer Science Student Union, UofT
-*Jul 2024 - Present*
-- Coordinating networking programs connecting 200+ students per term
-- Planning events that generated 30 mentorship matches per event
-- Managing logistics, budgeting, and communications across platforms
-- Supporting promotional campaigns increasing student participation
+### Volunteer | Women’s College Hospital
+*Oct 2025 – Present · Toronto, Canada*
+- Support hospital operations, patient navigation, and community health programs.
+- Engage with initiatives that promote accessibility, inclusion, and preventive care while gaining insight into hospital innovation.
 
-### Volunteer | Women's College Hospital
-*Oct 2025 - Present*
-- Coordinating intake for 150+ patients weekly across clinical departments
-- Managing schedules for 25+ volunteers to ensure optimal clinic operations
-- Supporting research logistics to maintain study timelines and data collection
-- Assisting with patient navigation and administrative support services
+### Cashier | Shoppers Drug Mart
+*Sep 2022 – Aug 2023*
+- Delivered reliable customer service, handled POS operations, and supported day-to-day store logistics.
+
+**Skills developed:** Patient support, healthcare navigation, event planning, project coordination, customer experience, leadership.
 
 ---
 
@@ -180,51 +171,46 @@ Advanced data structures project using graph algorithms for personalized film re
 
 ## 🏆 Achievements
 
-- 🎓 **University of Toronto Scholar** - Academic excellence award (2023)
-- 🥇 **Governor General's Academic Medal** - Highest academic standing
-- 📚 **High School Valedictorian** - St. Anthony's School (2023)
-- 🎷 **First Chair Saxophonist** - Alberta Honour Band
-- 👥 **Student Council President** - Led school-wide initiatives
-- ✨ **Rotary Club Student of the Month** - Leadership recognition
-- 🔬 Research poster presented at UofT Arts & Science Fair
-- 📊 Built tools adopted by multiple research teams
+- 🎓 **University of Toronto Scholar** — Entrance award for academic excellence and interdisciplinary impact (2023).
+- 🥇 **Governor General’s Academic Medal** — Highest academic standing in graduating class.
+- 🧪 **Schulich Leader Nominee** — Recognized for STEM leadership and innovation potential.
+- 🎷 **First Chair Saxophonist** — Alberta Honour Band representative, Alberta Band Association.
+- 🌀 **Rotary Student of the Month** — Honoured for community leadership and service.
+- 🗣️ **Student Council President & Valedictorian** — Led school-wide initiatives and represented the graduating class at St. Anthony's School.
 
 ---
 
 ## 🔬 Research Interests
 
-- 🧬 Computational biology and genomics
-- 📊 Bioinformatics tool development
-- 🌱 Ecological modeling and data visualization
-- 🤖 Machine learning for healthcare
-- 💊 Drug discovery and molecular analysis
-- 🌾 Biodiversity and conservation technology
+- 🧬 Computational genomics & stress-response visualization
+- 📊 Bioinformatics toolchains and reproducible data visualization
+- 🌱 Ecological modeling and population dynamics
+- 🤖 Machine learning for healthcare and epidemiology
+- 🧠 Accessibility-focused human-computer interaction
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**  
-*Bioinformatics & Computational Biology Specialist (Co-op)*  
-**University of Toronto** | Expected 2027
+### University of Toronto
+**Bachelor of Science (Honours)** — Computer Science & Bioinformatics and Computational Biology (2023 – 2027)  
+Activities: Trinity College, Computer Science Student Union (Social Committee Associate), Arts & Science Internship Program (ASIP), Research Excursions Program (REP)  
+- University of Toronto Scholar; active researcher in the Provart Lab on computational gene expression tools.  
+- Coursework: Data Structures & Algorithms, Operating Systems, Software Engineering, Molecular Genetics, Computational Biology.
 
-**Relevant Coursework:**
-- Software Design & Engineering
-- Operating Systems
-- Data Structures & Algorithms
-- Computer Graphics
-- Theory of Computation
-- Molecular & Cell Biology
-- Genetics & Genomics
+### St. Anthony's School
+**High School Diploma (2010 – 2023)**  
+- Valedictorian, Governor General’s Academic Medal recipient, Student Council President.
+- Activities: Concert Band (Saxophonist), Varsity Volleyball, Varsity Badminton.
 
 ---
 
 ## 📜 Certifications
 
-- **Good Clinical Practice (GCP)** - NIDA
-- **CPR-C + AED** - First Aid Certified
-- **TCPS 2: CORE (2022)** - Research Ethics
-- **WHMIS** - Workplace Hazardous Materials
+- **Good Clinical Practice (GCP)** — NIDA (Oct 2025 – Oct 2028)
+- **TCPS 2: CORE 2022** — Canadian Institutes of Health Research
+- **WHMIS** — Canadian Centre for Occupational Health and Safety
+- **Standard First Aid CPR C + AED** — St. John Ambulance (May 2025 – May 2028)
 
 ---
 
