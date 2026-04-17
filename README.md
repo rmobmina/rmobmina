@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Computer Science and Bioinformatics student at the **University of Toronto** building tools that make biological data usable and meaningful.
+I'm a Computer Science and Bioinformatics student at the **University of Toronto**!
 
 A few areas I’m especially interested in:
 - Bioinformatics and computational tools  
