@@ -66,7 +66,6 @@ A few areas I’m especially interested in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/>
 </p>
 
 ### Developer Tools
@@ -78,24 +77,29 @@ A few areas I’m especially interested in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/>
+  <img src="https://cdn.simpleicons.org/postman" height="30"/>
+  <img src="https://cdn.simpleicons.org/dynatrace" height="30"/>
+  <img src="https://cdn.simpleicons.org/datadog" height="30"/>
+  <img src="https://cdn.simpleicons.org/jira" height="30"/>
+  <img src="https://cdn.simpleicons.org/confluence" height="30"/>
 </p>
 
 ## Experience
 
-### Systems Analyst | Credit Platform, TD Bank  
+### Software Engineer Intern | Credit Platform, TD Bank  
 *May 2026 – Aug 2026 · Toronto, Canada*  
-- Elicit and formalize system requirements for distributed credit platform services across cross-functional stakeholders  
-- Translate business logic into technical specifications, data flows, and API-level requirements  
-- Contribute to performance optimization and scalability of high-throughput financial systems  
+- Support application monitoring and observability initiatives across credit platform services using Dynatrace and related tools
+- Investigate application issues, validate REST APIs, and assist with testing and deployment activities across multiple environments
+- Contribute to application security, code quality, and platform reliability through vulnerability remediation and development workflow reviews
 
 ### Backend Engineer | Provart Lab, University of Toronto  
 *Sept 2025 – Present · Toronto, Canada*  
-- Engineer Flask-based REST APIs and dynamic SQLAlchemy models for large-scale gene expression platforms  
-- Design and optimize data pipelines across 100+ datasets, improving query performance and data integrity  
-- Implement schema standardization and validation workflows for reproducible, interoperable bioinformatics systems  
+- Develop Flask APIs and Python-based tools supporting large-scale plant gene expression resources
+- Build and maintain data validation workflows to improve the quality, consistency, and accessibility of biological datasets
+- Design SQL-based data pipelines and backend systems for integrating and querying genomic data across multiple species
 
 ### Data Engineer | Gilbert Lab, University of Toronto  
 *May 2025 – Aug 2025 · Toronto, Canada*  
-- Modeled extinction dynamics and species dominance using statistical analysis on ecological time-series data  
-- Built data processing and visualization pipelines in R (tidyverse, ggplot2) for large-scale biodiversity datasets  
-- Translated quantitative results into reproducible models supporting ecological forecasting and restoration analysis  
+- Analyzed long-term ecological monitoring data to investigate species dominance, extinction patterns, and biodiversity change
+- Developed data processing and visualization workflows in R to support ecological research and statistical analysis
+- Created interactive tools and reproducible analyses to help researchers explore ecological trends and communicate findings
