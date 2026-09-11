@@ -86,6 +86,12 @@ A few areas I’m especially interested in:
 
 ## Experience
 
+### Software Engineer Intern | Treasury Board Secretariat, Government of Ontario
+*Sept 2026 – Dec 2026 · Toronto, Canada*  
+- Design, develop, and maintain interactive web pages for the Financial Management Gateway using React, JavaScript, CSS, and Figma
+- Perform functional and quality assurance testing, and remediate accessibility issues to meet AODA and WCAG compliance standards
+- Support multimedia content creation and stakeholder collaboration through video editing, SharePoint updates, and Power Apps content management
+
 ### Software Engineer Intern | Credit Platform, TD Bank  
 *May 2026 – Aug 2026 · Toronto, Canada*  
 - Support application monitoring and observability initiatives across credit platform services using Dynatrace and related tools
