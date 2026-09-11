@@ -84,7 +84,7 @@ A few areas I’m especially interested in:
   <img src="https://cdn.simpleicons.org/confluence" height="30"/>
 </p>
 
-## Experience
+## Work Experience
 
 ### Software Engineer Intern | Treasury Board Secretariat, Government of Ontario
 *Sept 2026 – Dec 2026 · Toronto, Canada*  
@@ -98,8 +98,22 @@ A few areas I’m especially interested in:
 - Investigate application issues, validate REST APIs, and assist with testing and deployment activities across multiple environments
 - Contribute to application security, code quality, and platform reliability through vulnerability remediation and development workflow reviews
 
+## Research Experience
+
+### Software Engineer | Bader Lab, University of Toronto
+*Sept 2026 – Present · Toronto, Canada*
+- Develop Python-based tools for tracking changes across monthly biological GeneSet releases used by pathway enrichment platforms including GSEA, g:Profiler, and EnrichmentMap
+- Build comparison and validation workflows to identify added, removed, and modified GeneSets, changes in gene membership, and identifier-level differences across releases
+- Support modernization of a large-scale bioinformatics pipeline integrating 10+ biological data sources by improving release transparency, reproducibility, and data provenance
+
+### AI/ML Engineer | Cafazzo Lab, University of Toronto / UHN
+*Jan 2026 – Present · Toronto, Canada*
+- Develop an AI-assisted communication platform to support older adults experiencing memory and communication difficulties during everyday conversations
+- Build machine learning and signal-processing workflows to identify conversational patterns such as pauses, repetition, and word-finding difficulty
+- Engineer accessible, privacy-conscious interfaces and contextual prompting features using human-centred design principles for digital health applications
+
 ### Backend Engineer | Provart Lab, University of Toronto  
-*Sept 2025 – Present · Toronto, Canada*  
+*Sept 2025 – Aug 2026 · Toronto, Canada*  
 - Develop Flask APIs and Python-based tools supporting large-scale plant gene expression resources
 - Build and maintain data validation workflows to improve the quality, consistency, and accessibility of biological datasets
 - Design SQL-based data pipelines and backend systems for integrating and querying genomic data across multiple species
